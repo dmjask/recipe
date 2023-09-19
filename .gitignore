@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+*.[oa]
+*.html
+!foo.html
